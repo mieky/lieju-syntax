@@ -9,4 +9,4 @@ https://gist.github.com/mieky/2eb07a8c5ba9afae7edf
 
 * override the scary linter background color
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/mieky/lieju-syntax/raw/master/screenshot.png)

@@ -1,5 +1,11 @@
-# seti2-syntax theme
+# lieju-syntax theme
 
-A short description of your theme.
+A dark & mellow Atom syntax theme, mixing my favorite bits from itg dark, Seti, and Monokai.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Goes well with the Input Mono font and a bit of custom styles:
+https://gist.github.com/mieky/2eb07a8c5ba9afae7edf
+
+### TODO
+
+* add a proper screenshot.
+* override the scary linter background color

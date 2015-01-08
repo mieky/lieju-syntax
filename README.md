@@ -7,4 +7,4 @@ https://gist.github.com/mieky/2eb07a8c5ba9afae7edf
 
 ![Screenshot](https://github.com/mieky/lieju-syntax/raw/master/screenshot.png)
 
-Screenshot of lieju-syntax coloring [timepie](github.com/mieky/timepie) code.
+Screenshot of lieju-syntax coloring [timepie](https://github.com/mieky/timepie) code.
